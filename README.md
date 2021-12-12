@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python , Data Analytics , Machine Learning
 - 🌱 I’m currently working as a associate software Engineer in DXC Technology
 - 💞️ I’m looking to collaborate
-- 📫 You can reach me at my email haiderrizvi1441
+- 📫 
 
 
 <!---
