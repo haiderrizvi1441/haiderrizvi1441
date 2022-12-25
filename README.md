@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haiderrizvi1441
-- 👀 I’m interested in Python , Data Analytics , Machine Learning
+- 👀 Can code in Python, Java, JavaScript. Currenlty working towards Full Stack Mastery.
 - 🌱 I’m currently working as a associate software Engineer in DXC Technology
 - 💞️ I’m looking to collaborate
 - 📫 
