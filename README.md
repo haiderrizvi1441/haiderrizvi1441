@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haiderrizvi1441
-- 👀 Can code in Python, Java, JavaScript. Currenlty working towards Full Stack Mastery.
-- 🌱 I’m currently working as a associate software Engineer in DXC Technology
+- 👀 Can code in Python, Java, JavaScript. Currently working towards Full Stack Mastery.
+- 🌱 I’m currently working as a Software Engineer at DXC Technology
 - 💞️ I’m looking to collaborate
 - 📫 
 
