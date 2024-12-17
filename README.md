@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @haiderrizvi1441
+-   Works primarily as a Spring boot and React Developer
 - 👀 Can code in Python, Java, JavaScript. Currently working towards Full Stack Mastery.
-- 🌱 I’m currently working as a Software Engineer at DXC Technology
+- 🌱 I’m currently working as a Consultant(Full Stack Developer) at Deloitte USI (Hyderabad)
 - 💞️ I’m looking to collaborate
 - 📫 
 
